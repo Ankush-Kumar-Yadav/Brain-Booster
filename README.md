@@ -52,10 +52,6 @@
 ## 🛠️ Installation
 
 
-# Clone the repo
-git clone https://github.com/Chauhanvishal01/brain-boosters.git
-cd brain-boosters
-
 # Install client dependencies
 cd client
 npm install
